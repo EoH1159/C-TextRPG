@@ -1,0 +1,14 @@
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\bin\Debug\net8.0\Aincrad3.exe
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\bin\Debug\net8.0\Aincrad3.deps.json
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\bin\Debug\net8.0\Aincrad3.runtimeconfig.json
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\bin\Debug\net8.0\Aincrad3.dll
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\bin\Debug\net8.0\Aincrad3.pdb
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.AssemblyInfoInputs.cache
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.AssemblyInfo.cs
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.csproj.CoreCompileInputs.cache
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.dll
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\refint\Aincrad3.dll
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.pdb
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\Aincrad3.genruntimeconfig.cache
+C:\Users\zien3\Desktop\Aincrad1\Aincrad3\obj\Debug\net8.0\ref\Aincrad3.dll
